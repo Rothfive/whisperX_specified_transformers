@@ -1,6 +1,7 @@
-torch>=2
-torchaudio>=2
-faster-whisper>=0.8
+torch==2+cu117
+torchvision==2+cu117
+torchaudio==2+cu117
+faster-whisper==0.8
 transformers==4.19.0
 ffmpeg-python>=0.2
 pandas
